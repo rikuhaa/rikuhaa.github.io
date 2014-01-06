@@ -1,2 +1,2 @@
-RikuHaavisto.github.io
+rikuhaa.github.io
 ======================
